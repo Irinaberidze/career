@@ -1,0 +1,145 @@
+
+Built and deployed Docker containers to break up monolithic app into microservices, improving developer workflow, increasing scalability, and optimizing speed
+Leveraged AWS cloud services such as EC2; auto-scaling
+Strong knowledge of the HTTP protocol and ability to understand decipher the HTTP conversation
+Drove releases, automated release process.
+Perform training, design and knowledge transfer sessions.
+Experienced on Load Balancing, Controlling Flow of Traffic by using AWS ELB, ALB, NLB.
+Administer and Maintain Source Code Repositories including GIT, Bit bucket.
+Working knowledge of AWS IaaS, PaaS, and SaaS and coming trends in the Cloud space
+Experienced on migrating current  applications from an on prem environment to an AWS.
+Monitored developed applications and fixed bugs thru ELK and New Relic
+Deployed Docker Services into cloud and on-prem environments.
+Extremely knowledgeable about CI/CIT/CID integration.
+Streamlined applications delivery to get applications out to customers faster.
+Redesigned and redeployed the Nagios implementation. Nodes automatically added/removed via Ansible.
+Setup NFS, Samba and FTP File sharing, on Linux and Windows servers.
+Participated in  implementation, and growth of our infrastructure on Amazon Web Services
+Drove strategy for migrating from Github to Bitbucket, including branching, merging, and tagging
+Experienced architecting and supporting highly available and highly scalable infrastructure
+Containerized applications using Docker on cloud agnostic environment
+Developed hybrid cloud delivery model allowing for customers to choose the mix of AWS  and on-premise servers  to meet their individual needs.
+Focused on automation and integration.
+Maintain build profiles in Team Foundation Server and Jenkins for CI/CD pipeline
+Automated build and deployment process with Jenkins , eliminating 80% of manual work
+Deployed the java application into web application servers like Apache, Tomcat.
+Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, and RDS, including backups
+AWS provisioning via AWS CLI/API - this includes defining VPCs, ECS clusters, Auto-Scaling Policies/Groups, and Security Group
+Created Dockerfiles, built Docker images for microservices to run on Kubernetes platform.
+Collaborated with VMware updates management to install & troubleshoot patches and updates on ESX hosts and virtual machines.
+Assisted and maintained an automation and monitoring framework
+Experienced in Implementing DevOps Automation process for Infrastructure set up, RDS DB Setup
+Knowledge in building distributed,
+Developed Linux/UNIX scripts to accomplish redundant tasks to simplify in distributed administration.
+Designed and developed continuous deployment pipeline, integrating Terraform, Vagrant, Git , Jenkins and Ansible  across geographically separated hosting zones in AWS
+Built maintained Docker container by using Jenkins Pipeline.
+
+Built and orchestrated environments for development team based on their needs
+Create and maintain fully automated CI/CD pipelines for code deployment using Jenkins
+Wrote and tested Ansible playbooks to configure and perform tasks on remote nodes
+Developed continuous delivery pipeline in Cloud Environments.
+Built a new CI pipeline. Testing and deployment automation with Docker, Jenkins
+Used Ansible and Terraform for creating subnets, security groups, route tables and ACL's
+Managed configured Splunk dashboards and configurations Collaborate with Engineering.
+Support equipment delivery processes and equipment configuration as required
+Implemented and managed continuous code build and deployment with Go and other tools
+Good implementation experience with installation and configuration of Kubernetes cluster by using Kops
+Maintained SVN repositories for DevOps environment: automation code and configuration
+Experienced in Ansible automation including writing playbooks for  development environments
+Designed and implemented scalable and secure Cloud Architecture on AWS
+Created and updated AWS AMI Images Using Packer.
+Migrate existing databases from on premise to AWS using various tools including
+Built and deployed Docker containers to break up monolithic app into microservices,
+Automating the infrastructure deployment for different stages like Dev/Stage/Prod
+Troubleshoot alerts relating to application failures and devices being unreachable
+Passionate about new knowledge and innovation.
+Good Experience on AWS, Google Cloud and OpenShift platform in managing Docker containers in Kubernetes
+Ability to grasp technical concepts quickly and apply that knowledge to DevOps efforts within the team
+Managed IAAC through AWS Cloudformation and Terraform.
+Worked within the Cloud for integration processes.
+Develop of tools and frameworks to improve security, reliability, maintainability, availability and performance for the technology foundation of our platform
+Assist with the development of business processes and systems to establish and measure Key Performance Indicators (KPI) which will be used in customer Service Level Agreements
+Reduced deployment time for critical agile project infrastructure from months to 2 days
+Experienced with deployment and orchestration technologies such as Docker, Kubernetes,
+Built and maintained kubernetes on AWS using kops and terraform
+Excellent configuration management using Ansible Tower and Ansible
+Managed and configured launched Amazon EC2 instances with respect to specific applications.
+Worked with and evaluated third party vendor products
+Responsible for planning and scheduling the QA, Stage, Prod deployments, preparing the release schedule and communicating across different teams.
+Developed and maintained CI/CD pipelines for code deployment.
+Automated operations and development tasks with jenkins and travisCI.
+Leveraged VPC (Virtual Private Cloud) to build secure, highly scalable and flexible systems that handle expected and unexpected load bursts
+Configured ELK/Redis/Filebeat  on kubernetes to manage logs of applications
+Experienced in AWS PaaS services (Kinesis, Lambda, RDS etc.) and deployment tools.
+Built and maintained our continuous integration and continuous delivery (CI/CD) environments
+Deploying Docker Container by using HELM CHARTS into Kubernetes Clusters.
+Configured the Ansible playbooks with Ansible Tower  for users to run
+Used Jenkins for Continuous Integration and deployment into Kubernetes Deployment
+Experienced on AWS EC2 Instances creation, setting up VPC, launching EC2 instances on private and public subnets based on the requirements for each of the applications.
+Managed kubernetes  on Google Cloud Platform and EKS
+Used jenkins for improving developer workflow, increasing scalability, and optimizing speed
+Created Ansible playbooks to automatically install packages from a repository, to change the configuration of remotely configured machines and to deploy new builds.
+Created and managed a Docker deployment pipeline for custom application images
+Systems would include a Network Management System (NMS), Trouble Ticket System (TTS)
+Managed GitHub repositories and permissions, including branching and tagging
+Experienced in development and configuration of software provisioning tools like Ansible Tower, Docker
+Troubleshoot exporting data to secure client connections to avoid manual workarounds                                      
+Automated infrastructure and deployments with Ansible, Terraform, Jenkins.
+Developed and promoted SOP and creating processes and tooling for operation efficiency.
+Expertise in writing Puppet's DML (Declarative Modeling Language) scripts and helped declare and the documented each system's state for future references.
+Built design and training documentation required for projects.
+Implemented CI/CD process using Jenkins for global development team, allowing for dozens of code updates
+Organize weekly release meetings with multiple development teams to identify the releases ahead and bring awareness on milestones as per release calendar.
+Installed and configured Nagios to constantly monitor network bandwidth, memory usage
+Managed Kubernetes cluster and Docker server.
+Using Ansible playbooks for environment bootstrap with CIS/AWS/OpenStack.
+Utilized customized base image to build docker images for each service.
+Created and managed VM’s using KVM and maintained VMware ESX servers
+Designed, rolled out, and managed 5,000+ hosts with Ansible  and Ansible Tower
+Managed systems and projects with little direction
+Establishing and running the processes for on-going maintenance monitoring support and security patching
+Experienced with deployment and automation engineer, performance analyst, service architect
+Working on AWS ASG providing high availability of applications and EC2 instances based on the load
+Ruled consul integration project on kubernetes with terraform.
+Deployed Ansible Tower for automation on AWS infrastructure
+Deploy code across multiple servers effortlessly with ansible and OpsWorks
+Experience in troubleshooting application level issues to perform root cause analysis.
+Executed standard system administration tasks, such as patching, software and hardware upgrades, troubleshooting and problem resolution.
+Created and deployed Kubernetes clusters on different cloud providers.
+Completed load balancing and proxying of systems servers and components.
+Orchestrated container cluster with Docker Swarm and Kubernetes.
+Implemented and managed infrastructure as code through Chef and other automation tools
+Deployment and orchestration of Docker containers on a cloud platform.
+Managed and monitored Silver Spring’s global network of devices to maximum uptime
+Migrated Liferay applications to Docker Swarm utilizing AWS, Azure, GCE
+Utilized jenkins to automate the build process of the docker images
+Provisioned AWS services using AWS CLI/API, defining EC2, S3, VPCs, ECS, Auto-Scaling Policies/Groups, Security Groups and Route53.
+Engaged and worked with another team on Database / Application Refresh based on software life cycles.
+Performed dispatcher role to distribute tasks assigned to the onshore team.
+In-depth understanding of the principles and best practices of SCM
+Built and Managed  AWS infrastructure As A Code with terraform.
+Automated operations and development tasks with CI/CD
+Wrote Puppet manifests and modules to deploy, configure, and manage servers
+Automated deployments for 200+ cloud servers using Terraform  and Ansible
+Deployed thycotic server for secure/encrypted password management across the company
+Used Kubernetes to deploy scale, load balance docker containers with multiple name spaced versions.
+Automated build and deployment using Jenkins to reduce human error and speed up production processes
+Created Continuous Build Process using Jenkins as Continuous integration tool
+Implemented Docker based micro-service Deployments by using Helm Charts into Kubernetes Cluster.
+Reduced costs of each month by eliminating unnecessary servers and consolidating databases
+Experienced in deploying Docker containers and creating Docker images using Ansible.
+Ability to work at a high level of professionalism and quality with customers
+Implemented and designed AWS instances by Ansible roles to ensure deployment of web applications.
+Serving as a hands-on subject matter expert for DevOps and Automation in an AWS
+Automated build to reduce human error and speed up production.
+Containerized most of the company applications to intercloud environment
+Developedcontinuous delivery pipeline in cloud environment,
+Worked with Software Engineers to incorporate process and programming improvements into software development practices.
+Demonstrated how Ansible along with Ansible Tower can be used to automate different software development processes all over the organization.
+Configured continuous integration (CI) and full end to end automation using Jenkins
+Focused on automation integration monitoring and configuration management.
+Designed and implemented scalable, secure cloud architecture based on Amazon Web Services.
+Automated application deployment in the cloud using Docker technology using ECS  scheduler.
+Upgraded kubernetes Dev/QA/Prod environment to newer version using kops
+Experience working with S3, DynamoDB, Lambda, API Gateway, IAM, and other core AWS technologies.
+
